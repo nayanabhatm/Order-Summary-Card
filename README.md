@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://nayanabhatm.github.io/Order-Summary-Card/)
+- Live Site URL: https://nayanabhatm.github.io/Order-Summary-Card/
 
 ### Built with
 
